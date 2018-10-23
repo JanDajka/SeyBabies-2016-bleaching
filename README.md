@@ -10,6 +10,5 @@ Zuur A, Ieno E, Walker N, Saveliev A, Smith G (2009) Mixed effects models and ex
 
 All packages required:
 ```
-install.packages(c('dplyr', 'lattice', 'Matrix', 'lme4', 'nlme', 'mgcv', 'pscl', 'MASS','visreg', 'ggplot2', 'gridExtra', 'tidyverse'))  
-source("HighstatLibV10.R"); library(dplyr); library(lattice); library(Matrix); library(lme4); library(nlme); library(mgcv); library(pscl); library(MASS); library(visreg); library(ggplot2); library(tidyverse); library(gridExtra)
+install.packages(c('dplyr', 'lattice', 'Matrix', 'lme4', 'nlme', 'mgcv', 'pscl', 'MASS','visreg', 'ggplot2', 'gridExtra', 'tidyverse')) 
 ```
