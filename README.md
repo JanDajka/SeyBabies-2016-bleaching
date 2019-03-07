@@ -16,3 +16,7 @@ All packages required:
 ```
 install.packages(c('dplyr', 'lattice', 'Matrix', 'lme4', 'nlme', 'mgcv', 'pscl', 'MASS','visreg', 'ggplot2', 'gridExtra', 'tidyverse', 'coefplot', 'glmmTMB', 'sjPlot', 'here')) 
 ```
+
+Best wishes,
+
+Jan
