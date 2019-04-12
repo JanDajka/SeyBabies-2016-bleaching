@@ -2,7 +2,7 @@
 
 ## Juvenile coral densities post 2016 bleaching in Seychelles - Analysis
 
-R-scripts provided, data provided
+R-scripts provided, data provided - please contact me (j.dajka@lancaster.ac.uk) in case you would like to use the provided data.
 
 Using Highland Statistics' data exploration tools (Zuur et al. 2009) - the file can be downloaded here: http://highstat.com/Book3/support/4k-video-editing-computer-hardware
 
